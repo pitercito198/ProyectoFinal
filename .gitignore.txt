@@ -1,0 +1,19 @@
+# Ignorar archivos de configuración de Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignorar binarios y carpetas de compilación
+bin/
+obj/
+
+# Ignorar paquetes y dependencias
+*.nupkg
+packages/
+*.dll
+
+# Ignorar archivos temporales y de bloqueo
+*.log
+*.lock

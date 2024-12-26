@@ -1,0 +1,14 @@
+D:\DiseñoWebII\Proyecto\proyecto\Ventas.Utilidades\bin\Debug\net8.0\Ventas.Utilidades.deps.json
+D:\DiseñoWebII\Proyecto\proyecto\Ventas.Utilidades\bin\Debug\net8.0\Ventas.Utilidades.runtimeconfig.json
+D:\DiseñoWebII\Proyecto\proyecto\Ventas.Utilidades\bin\Debug\net8.0\Ventas.Utilidades.dll
+D:\DiseñoWebII\Proyecto\proyecto\Ventas.Utilidades\bin\Debug\net8.0\Ventas.Utilidades.pdb
+D:\DiseñoWebII\Proyecto\proyecto\Ventas.Utilidades\obj\Debug\net8.0\Ventas.Utilidades.csproj.AssemblyReference.cache
+D:\DiseñoWebII\Proyecto\proyecto\Ventas.Utilidades\obj\Debug\net8.0\Ventas.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\DiseñoWebII\Proyecto\proyecto\Ventas.Utilidades\obj\Debug\net8.0\Ventas.Utilidades.AssemblyInfoInputs.cache
+D:\DiseñoWebII\Proyecto\proyecto\Ventas.Utilidades\obj\Debug\net8.0\Ventas.Utilidades.AssemblyInfo.cs
+D:\DiseñoWebII\Proyecto\proyecto\Ventas.Utilidades\obj\Debug\net8.0\Ventas.Utilidades.csproj.CoreCompileInputs.cache
+D:\DiseñoWebII\Proyecto\proyecto\Ventas.Utilidades\obj\Debug\net8.0\Ventas.Utilidades.dll
+D:\DiseñoWebII\Proyecto\proyecto\Ventas.Utilidades\obj\Debug\net8.0\refint\Ventas.Utilidades.dll
+D:\DiseñoWebII\Proyecto\proyecto\Ventas.Utilidades\obj\Debug\net8.0\Ventas.Utilidades.pdb
+D:\DiseñoWebII\Proyecto\proyecto\Ventas.Utilidades\obj\Debug\net8.0\Ventas.Utilidades.genruntimeconfig.cache
+D:\DiseñoWebII\Proyecto\proyecto\Ventas.Utilidades\obj\Debug\net8.0\ref\Ventas.Utilidades.dll

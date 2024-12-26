@@ -1,0 +1,14 @@
+D:\DiseñoWebII\Proyecto\proyecto\Ventas.Models\bin\Debug\net8.0\Ventas.Models.deps.json
+D:\DiseñoWebII\Proyecto\proyecto\Ventas.Models\bin\Debug\net8.0\Ventas.Models.runtimeconfig.json
+D:\DiseñoWebII\Proyecto\proyecto\Ventas.Models\bin\Debug\net8.0\Ventas.Models.dll
+D:\DiseñoWebII\Proyecto\proyecto\Ventas.Models\bin\Debug\net8.0\Ventas.Models.pdb
+D:\DiseñoWebII\Proyecto\proyecto\Ventas.Models\obj\Debug\net8.0\Ventas.Models.csproj.AssemblyReference.cache
+D:\DiseñoWebII\Proyecto\proyecto\Ventas.Models\obj\Debug\net8.0\Ventas.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\DiseñoWebII\Proyecto\proyecto\Ventas.Models\obj\Debug\net8.0\Ventas.Models.AssemblyInfoInputs.cache
+D:\DiseñoWebII\Proyecto\proyecto\Ventas.Models\obj\Debug\net8.0\Ventas.Models.AssemblyInfo.cs
+D:\DiseñoWebII\Proyecto\proyecto\Ventas.Models\obj\Debug\net8.0\Ventas.Models.csproj.CoreCompileInputs.cache
+D:\DiseñoWebII\Proyecto\proyecto\Ventas.Models\obj\Debug\net8.0\Ventas.Models.dll
+D:\DiseñoWebII\Proyecto\proyecto\Ventas.Models\obj\Debug\net8.0\refint\Ventas.Models.dll
+D:\DiseñoWebII\Proyecto\proyecto\Ventas.Models\obj\Debug\net8.0\Ventas.Models.pdb
+D:\DiseñoWebII\Proyecto\proyecto\Ventas.Models\obj\Debug\net8.0\Ventas.Models.genruntimeconfig.cache
+D:\DiseñoWebII\Proyecto\proyecto\Ventas.Models\obj\Debug\net8.0\ref\Ventas.Models.dll

@@ -1,0 +1,67 @@
+﻿@model Ventas.Models.Cliente
+
+@{
+    ViewData["Title"] = "Crear Cliente"; // More descriptive title
+}
+
+<div class="container">
+    <h1>@ViewData["Title"]</h1>
+
+    <h4>Cliente</h4>
+    <hr />
+
+    <div class="row">
+        <div class="col-md-6">
+            @* Adjusted column width for better layout *@
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="mb-3">
+                    @* Added margin bottom to form groups *@
+                    <label asp-for="CI" class="form-label">Cédula de Identidad</label> @* Changed label text and class *@
+                    <input asp-for="CI" class="form-control" />
+                    <span asp-validation-for="CI" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Nombre" class="form-label">Nombre</label>
+                    <input asp-for="Nombre" class="form-control" />
+                    <span asp-validation-for="Nombre" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Apellido" class="form-label">Apellido</label>
+                    <input asp-for="Apellido" class="form-control" />
+                    <span asp-validation-for="Apellido" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Email" class="form-label">Correo Electrónico</label>
+                    <input asp-for="Email" class="form-control" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Telefono" class="form-label">Teléfono</label>
+                    <input asp-for="Telefono" class="form-control" />
+                    <span asp-validation-for="Telefono" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Direccion" class="form-label">Dirección</label>
+                    <input asp-for="Direccion" class="form-control" />
+                    <span asp-validation-for="Direccion" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Crear" class="btn btn-primary" /> @* Changed button text *@
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div>
+        <a asp-action="Index" class="btn btn-secondary">Volver</a> @* Styled the "Back to List" link as a button *@
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

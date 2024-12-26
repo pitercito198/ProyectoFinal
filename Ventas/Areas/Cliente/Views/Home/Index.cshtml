@@ -1,0 +1,75 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    var images = Model as List<string>;
+}
+<div class="container-fluid mt-5">
+    <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+            @for (int i = 0; i < images.Count; i++)
+            {
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="@i" class="@(i == 0 ? "active" : "")" aria-current="@(i == 0 ? "true" : "false")" aria-label="Slide @i"></button>
+            }
+        </div>
+        <div class="carousel-inner">
+            @for (int i = 0; i < images.Count; i++)
+            {
+                <div class="carousel-item @(i == 0 ? "active" : "")">
+                    <img src="~/img/@images[i]" class="d-block w-100" style="height: 300px; object-fit: contain;" alt="Producto @i">
+                </div>
+            }
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+</div>
+<div class="container mt-4">
+    <!-- Sección de Categorías -->
+    <h2 class="text-center mb-4">Categorías Populares</h2>
+    <div class="row text-center">
+        <div class="col-md-4">
+            <div class="card">
+                <img src="~/img/modelos/Hombre.jpg" class="card-img-top" alt="Hombres">
+                <div class="card-body">
+                    <h5 class="card-title">Ropa Deportiva para Hombres</h5>
+                    <a asp-action="Hombre" class="btn btn-primary">Ver más</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <img src="~/img/modelos/mujer2.jpg" class="card-img-top" alt="Mujeres">
+                <div class="card-body">
+                    <h5 class="card-title">Ropa Deportiva para Mujeres</h5>
+                    <a asp-action="Mujer" class="btn btn-primary">Ver más</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <img src="~/img/modelos/Boy.jpg" class="card-img-top" alt="Niños">
+                <div class="card-body">
+                    <h5 class="card-title">Ropa Deportiva para Niños</h5>
+                    <a asp-action="Boy" class="btn btn-primary">Ver más</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <!-- Sección de Promociones -->
+    <div class="bg-light p-5 mt-5 text-center">
+        <h2 class="mb-3">¡Promoción Especial!</h2>
+        <p>Compra 2 productos y obtén un 20% de descuento adicional. Aprovecha nuestras ofertas de temporada.</p>
+    </div>
+
+    
+</div>
+
+

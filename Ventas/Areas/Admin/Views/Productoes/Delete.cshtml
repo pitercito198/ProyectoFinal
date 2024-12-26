@@ -1,0 +1,48 @@
+﻿@model Ventas.Models.Producto
+
+@{
+    ViewData["Title"] = "Eliminar Producto"; // More descriptive title
+}
+
+<div class="container">
+    <h1>@ViewData["Title"]</h1>
+
+    <h3>¿Estás seguro que deseas eliminar este producto?</h3> @* Translated confirmation message *@
+
+    <div>
+        <h4>Producto</h4>
+        <hr />
+
+        <dl class="row">
+            <dt class="col-sm-2">@Html.DisplayNameFor(model => model.Nombre)</dt>
+            <dd class="col-sm-10">@Html.DisplayFor(model => model.Nombre)</dd>
+
+            <dt class="col-sm-2">@Html.DisplayNameFor(model => model.Descripcion)</dt>
+            <dd class="col-sm-10">@Html.DisplayFor(model => model.Descripcion)</dd>
+
+            <dt class="col-sm-2">@Html.DisplayNameFor(model => model.Precio)</dt>
+            <dd class="col-sm-10">@Html.DisplayFor(model => model.Precio)</dd>
+
+            <dt class="col-sm-2">@Html.DisplayNameFor(model => model.Categoria)</dt>
+            <dd class="col-sm-10">@Html.DisplayFor(model => model.Categoria)</dd>
+
+            <dt class="col-sm-2">@Html.DisplayNameFor(model => model.Marca)</dt>
+            <dd class="col-sm-10">@Html.DisplayFor(model => model.Marca)</dd>
+
+            <dt class="col-sm-2">@Html.DisplayNameFor(model => model.Talla)</dt>
+            <dd class="col-sm-10">@Html.DisplayFor(model => model.Talla)</dd>
+
+            <dt class="col-sm-2">@Html.DisplayNameFor(model => model.Color)</dt>
+            <dd class="col-sm-10">@Html.DisplayFor(model => model.Color)</dd>
+
+            <dt class="col-sm-2">@Html.DisplayNameFor(model => model.Stock)</dt>
+            <dd class="col-sm-10">@Html.DisplayFor(model => model.Stock)</dd>
+        </dl>
+
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="ProductoId" />
+            <input type="submit" value="Eliminar" class="btn btn-danger" /> @* Translated button text *@
+            <a asp-action="Index" class="btn btn-secondary">Volver</a>
+        </form>
+    </div>
+</div>

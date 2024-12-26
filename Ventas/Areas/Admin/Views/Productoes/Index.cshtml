@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Ventas.Models.Producto>
+
+@{
+    ViewData["Title"] = "Índice de Productos"; // More descriptive title
+}
+
+<div class="container">
+    @* Added container for centering *@
+    <h1>@ViewData["Title"]</h1>
+
+    <p>
+        <a asp-action="Create" class="btn btn-primary">Inserta Producto</a> @* Styled the "Create New" link as a button *@
+    </p>
+
+    <table class="table table-bordered table-striped table-hover">
+        @* Added Bootstrap table classes *@
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.Nombre)</th>
+                <th>@Html.DisplayNameFor(model => model.Descripcion)</th>
+                <th>@Html.DisplayNameFor(model => model.Precio)</th>
+                <th>@Html.DisplayNameFor(model => model.Categoria)</th>
+                <th>@Html.DisplayNameFor(model => model.Marca)</th>
+                <th>@Html.DisplayNameFor(model => model.Talla)</th>
+                <th>@Html.DisplayNameFor(model => model.Color)</th>
+                <th>@Html.DisplayNameFor(model => model.Stock)</th>
+                <th></th> @* Empty header for action buttons *@
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.Nombre)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Descripcion)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Precio)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Categoria)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Marca)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Talla)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Color)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Stock)</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.ProductoId" class="btn btn-sm btn-primary">Editar</a> @* Styled buttons and added small size *@
+                        <a asp-action="Details" asp-route-id="@item.ProductoId" class="btn btn-sm btn-secondary">Detalles</a>
+                        <a asp-action="Delete" asp-route-id="@item.ProductoId" class="btn btn-sm btn-danger">Eliminar</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

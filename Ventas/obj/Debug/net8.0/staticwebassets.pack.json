@@ -1,0 +1,541 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Ventas.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Ventas.a5l0jmiqib.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Boy\\conjunto.jpg",
+      "PackagePath": "staticwebassets\\img\\Boy\\conjunto.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Boy\\conjunto1.jpg",
+      "PackagePath": "staticwebassets\\img\\Boy\\conjunto1.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Boy\\conjunto10.jpg",
+      "PackagePath": "staticwebassets\\img\\Boy\\conjunto10.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Boy\\conjunto2.jpg",
+      "PackagePath": "staticwebassets\\img\\Boy\\conjunto2.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Boy\\conjunto3.jpg",
+      "PackagePath": "staticwebassets\\img\\Boy\\conjunto3.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Boy\\conjunto4.jpg",
+      "PackagePath": "staticwebassets\\img\\Boy\\conjunto4.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Boy\\conjunto5.jpg",
+      "PackagePath": "staticwebassets\\img\\Boy\\conjunto5.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Boy\\conjunto6.jpg",
+      "PackagePath": "staticwebassets\\img\\Boy\\conjunto6.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Boy\\conjunto7.jpg",
+      "PackagePath": "staticwebassets\\img\\Boy\\conjunto7.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Boy\\conjunto8.jpg",
+      "PackagePath": "staticwebassets\\img\\Boy\\conjunto8.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Boy\\conjunto9.jpg",
+      "PackagePath": "staticwebassets\\img\\Boy\\conjunto9.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Boy\\short.jpg",
+      "PackagePath": "staticwebassets\\img\\Boy\\short.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Gorra.jpg",
+      "PackagePath": "staticwebassets\\img\\Gorra.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Guantes.jpg",
+      "PackagePath": "staticwebassets\\img\\Guantes.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Guantes2.jpg",
+      "PackagePath": "staticwebassets\\img\\Guantes2.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Hombre\\Argentina.jpg",
+      "PackagePath": "staticwebassets\\img\\Hombre\\Argentina.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Hombre\\Chamarra.jpg",
+      "PackagePath": "staticwebassets\\img\\Hombre\\Chamarra.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Hombre\\ChuterasA.jpg",
+      "PackagePath": "staticwebassets\\img\\Hombre\\ChuterasA.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Hombre\\ChuterasN.jpg",
+      "PackagePath": "staticwebassets\\img\\Hombre\\ChuterasN.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Hombre\\chamarraArgentina.jpg",
+      "PackagePath": "staticwebassets\\img\\Hombre\\chamarraArgentina.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Hombre\\chamarraportugal.jpg",
+      "PackagePath": "staticwebassets\\img\\Hombre\\chamarraportugal.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Hombre\\poleraA.jpg",
+      "PackagePath": "staticwebassets\\img\\Hombre\\poleraA.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Hombre\\poleraAlemania.jpg",
+      "PackagePath": "staticwebassets\\img\\Hombre\\poleraAlemania.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Hombre\\poleraBayer.jpg",
+      "PackagePath": "staticwebassets\\img\\Hombre\\poleraBayer.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Hombre\\poleraBloo.jpg",
+      "PackagePath": "staticwebassets\\img\\Hombre\\poleraBloo.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Hombre\\poleraBlooming.jpg",
+      "PackagePath": "staticwebassets\\img\\Hombre\\poleraBlooming.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Hombre\\poleraBoli.jpg",
+      "PackagePath": "staticwebassets\\img\\Hombre\\poleraBoli.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Hombre\\poleraBolivar.jpg",
+      "PackagePath": "staticwebassets\\img\\Hombre\\poleraBolivar.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Hombre\\poleraBolivia.jpg",
+      "PackagePath": "staticwebassets\\img\\Hombre\\poleraBolivia.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Hombre\\poleraN.jpg",
+      "PackagePath": "staticwebassets\\img\\Hombre\\poleraN.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Hombre\\poleraR.jpg",
+      "PackagePath": "staticwebassets\\img\\Hombre\\poleraR.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Hombre\\poleraVoli.jpg",
+      "PackagePath": "staticwebassets\\img\\Hombre\\poleraVoli.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Hombre\\polerabarca.jpg",
+      "PackagePath": "staticwebassets\\img\\Hombre\\polerabarca.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Hombre\\poleraborusia.jpg",
+      "PackagePath": "staticwebassets\\img\\Hombre\\poleraborusia.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Hombre\\polerabrasil.jpg",
+      "PackagePath": "staticwebassets\\img\\Hombre\\polerabrasil.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Hombre\\poleraportugal.jpg",
+      "PackagePath": "staticwebassets\\img\\Hombre\\poleraportugal.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Hombre\\short.jpg",
+      "PackagePath": "staticwebassets\\img\\Hombre\\short.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Hombre\\short1.jpg",
+      "PackagePath": "staticwebassets\\img\\Hombre\\short1.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Mujer\\Black.jpg",
+      "PackagePath": "staticwebassets\\img\\Mujer\\Black.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Mujer\\Verde.jpg",
+      "PackagePath": "staticwebassets\\img\\Mujer\\Verde.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Mujer\\blusas.jpg",
+      "PackagePath": "staticwebassets\\img\\Mujer\\blusas.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Mujer\\calza.jpg",
+      "PackagePath": "staticwebassets\\img\\Mujer\\calza.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Mujer\\chamarra.jpg",
+      "PackagePath": "staticwebassets\\img\\Mujer\\chamarra.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Mujer\\completo.jpg",
+      "PackagePath": "staticwebassets\\img\\Mujer\\completo.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Mujer\\completo2.jpg",
+      "PackagePath": "staticwebassets\\img\\Mujer\\completo2.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Mujer\\conjunton.jpg",
+      "PackagePath": "staticwebassets\\img\\Mujer\\conjunton.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Mujer\\conjuntonblack.jpg",
+      "PackagePath": "staticwebassets\\img\\Mujer\\conjuntonblack.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Mujer\\correr.jpg",
+      "PackagePath": "staticwebassets\\img\\Mujer\\correr.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Mujer\\cunjunto.jpg",
+      "PackagePath": "staticwebassets\\img\\Mujer\\cunjunto.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Mujer\\equipo.jpg",
+      "PackagePath": "staticwebassets\\img\\Mujer\\equipo.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Mujer\\modelos.jpg",
+      "PackagePath": "staticwebassets\\img\\Mujer\\modelos.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Mujer\\pink.jpg",
+      "PackagePath": "staticwebassets\\img\\Mujer\\pink.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Mujer\\plomo.jpg",
+      "PackagePath": "staticwebassets\\img\\Mujer\\plomo.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Mujer\\poleraA.jpg",
+      "PackagePath": "staticwebassets\\img\\Mujer\\poleraA.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Mujer\\short.jpg",
+      "PackagePath": "staticwebassets\\img\\Mujer\\short.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Mujer\\xuan.jpg",
+      "PackagePath": "staticwebassets\\img\\Mujer\\xuan.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Polera.jpg",
+      "PackagePath": "staticwebassets\\img\\Polera.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\Reloj.jpg",
+      "PackagePath": "staticwebassets\\img\\Reloj.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\chuteras.jpg",
+      "PackagePath": "staticwebassets\\img\\chuteras.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\medias.jpg",
+      "PackagePath": "staticwebassets\\img\\medias.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\modelos\\Boy.jpg",
+      "PackagePath": "staticwebassets\\img\\modelos\\Boy.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\modelos\\Hombre.jpg",
+      "PackagePath": "staticwebassets\\img\\modelos\\Hombre.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\modelos\\Logo.jpg",
+      "PackagePath": "staticwebassets\\img\\modelos\\Logo.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\modelos\\mujer.jpeg",
+      "PackagePath": "staticwebassets\\img\\modelos\\mujer.jpeg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\modelos\\mujer2.jpg",
+      "PackagePath": "staticwebassets\\img\\modelos\\mujer2.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\pelota.jpg",
+      "PackagePath": "staticwebassets\\img\\pelota.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\img\\zapatos.jpg",
+      "PackagePath": "staticwebassets\\img\\zapatos.jpg"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\DiseñoWebII\\Proyecto\\proyecto\\Ventas\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Ventas.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Ventas.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Ventas.props",
+      "PackagePath": "build\\Ventas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Ventas.props",
+      "PackagePath": "buildMultiTargeting\\Ventas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Ventas.props",
+      "PackagePath": "buildTransitive\\Ventas.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
